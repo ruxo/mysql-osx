@@ -1,0 +1,1 @@
+Based on Docker's mysql image. This project is to build OSX, volume-mappable MySql images.
